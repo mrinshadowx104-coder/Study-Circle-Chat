@@ -223,7 +223,7 @@ Fill in the actual result and status after running each test.
 
 | Date | Member | Task | Commit |
 |------|--------|------|--------|
-| [2026-11-24] | Alison G. Balitor | [e.g., ChatServer thread-per-client handling] | [] |
+| [2026-11-24] | Alison G. Balitor | [e.g., ChatServer thread-per-client handling] | [https://github.com/mrinshadowx104-coder/Study-Circle-Chat/tree/e8e00a4f9810011a990bf01d1b223c19741dbb5d] |
 | [2026-11-26] | Rhean P. Bacia | [e.g., ChatClient GUI layout in GUI Builder] | [link to commit] |
 
 ## Credits and AI assistance
